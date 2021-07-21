@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Planking Manager</string>
+
+    <string name="hometext">Planking Manager</string>
+    <string name="rankingButton">Ranking</string>
+    <string name="startMeasureButton">Start measurement</string>
+
+    <string name="time">time</string>
+    <string name="ready_txt">Push ready</string>
+    <string name="ready_button">Ready</string>
+    <string name="reset_button">Reset</string>
+    <string name="stop_button">Stop</string>
+    <string name="azimuth_text">azimuthText</string>
+    <string name="pitch_text">pitchText</string>
+    <string name="roll_text">rollText</string>
+    <string name="grad_txt">Leaning</string>
+    <string name="start_measure_voice">start measurement</string>
+    <string name="leaning_forward_voice">buttocks are up</string>
+    <string name="leaning_back_voice">buttocks are down</string>
+    <string name="good_posure_voice">good posture</string>
+
+    <string name="congrad">Congratuation!</string>
+    <string name="score">150</string>
+    <string name="high_score">Top Score : </string>
+    <string name="high_score_value">highScoreValue</string>
+
+    <string name="ranking">Ranking</string>
+    <string name="rankingDay">Day</string>
+    <string name="rankingScore">Time</string>
+    <string name="home">Home</string>
+    <string name="back">Back</string>
+    <string name="topScore">topScore</string>
+    <string name="topDay">topDay</string>
+    <string name="secondScore">secondScore</string>
+    <string name="secondDay">secondDay</string>
+    <string name="thirdScore">thirdScore</string>
+    <string name="thirdDay">thirdDay</string>
+    <string name="fourthScore">fourthScore</string>
+    <string name="fourthDay">fourthDay</string>
+    <string name="fifthScore">fifthScore</string>
+    <string name="fifthDay">fifthDay</string>
+</resources>
